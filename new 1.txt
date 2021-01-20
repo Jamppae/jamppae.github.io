@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<Head>
-<title>Page Title</title>
-</head>
 
 <body>
 
