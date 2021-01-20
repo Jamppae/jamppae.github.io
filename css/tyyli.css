@@ -6,10 +6,11 @@ h2 {
   color: pink;
   font-size: 300%;
 }
+
 header {
-  background-color: #66b661;
-    padding: 30px;
+  background-color: #666;
+  padding: 30px;
   text-align: center;
   font-size: 35px;
-}
-    
+  color: white;
+}    
