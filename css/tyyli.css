@@ -8,7 +8,7 @@ header {
   color: Blue;
 }    
 Section {
-  background-color: blue;
+  
     Text-align: center;
 }
 
@@ -24,8 +24,6 @@ article {
   color: blue;
  
 
-h2   color: blue;
-  p    color: red;
 }
   body {background-color: powderblue;}
 
