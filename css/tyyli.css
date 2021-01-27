@@ -34,6 +34,40 @@ footer {
 Text-align: center;
 }
 
+header {
+  background-color: pink;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: Blue;
+}    
+Section {
+  
+    Text-align: center;
+}
+
+
+
+article {
+  
+  padding: 20px;
+  text-align: left;
+  width: 60%;
+  background-color: grey;
+  height: 300px;
+  color: red;
+ 
+ 
+
+}
+  body {background-color: powderblue;}
+
+
+footer {
+
+Text-align: center;
+}
+
     
   
 
